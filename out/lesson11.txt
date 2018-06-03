@@ -1,0 +1,7 @@
+hel	lo
+"hel\tlo"
+he
+     llo
+"he\n     llo"
+["red", "blue"]
+["yellow", "green"]

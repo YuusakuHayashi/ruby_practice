@@ -1,7 +1,7 @@
 # Translation
 
 x = 50
-x = "3"
+y = "3"
 
 p x + y.to_i
 p x + y.to_f
