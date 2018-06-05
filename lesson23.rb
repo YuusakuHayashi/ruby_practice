@@ -22,4 +22,4 @@ user = User.new
 user.sayPrivateGreeting
 
 admin = AdminUser.new
-admin.sayGreeting
+admin.sayGreeting # <-- Access Dinied
